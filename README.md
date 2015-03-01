@@ -1,6 +1,6 @@
 # SkipLists
-
-This projects implements a very efficient data structure called Skip Lists. It is a multi-layered linked list data strucutre.
+#Contributor: PavanYadiki
+This project implements a very efficient data structure called Skip Lists. It is a multi-layered linked list data strucutre.
 It performs insert, search and delete opertaions in O(log n). As the input grows larger, the relative efficiency is improved.
 You can see more on skip lists on the wikipedia page: https://en.wikipedia.org/wiki/Skip_list
 
