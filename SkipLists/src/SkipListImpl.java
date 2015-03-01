@@ -442,7 +442,6 @@ public class SkipListImpl<T extends Comparable<? super T>> implements SkipList<T
 	 * Typically this node is two leaps away from its below level
 	 * @param from - Node from where we should find the next node
 	 * @param level - The level of the next pointer which has to be set
-	 * @return - The reference of the new node which will be pointed to
 	 */
 	private void getNextNode(Node<T> from, int level){
 		//  Take two leaps from its previous level
